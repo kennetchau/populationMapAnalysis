@@ -1,6 +1,6 @@
 # populationMapAnalysis
 A heatmap of cities with population above 500000. 
-<br>Created using python pandas, folium
+<br>Created using python pandas, folium<br>
 ![NA east coast](./pictures/Screenshot%202023-06-03%20at%203.14.20%20PM.png)
 
 ## How to use
@@ -11,5 +11,5 @@ Datasource: simplemaps world cities database
 url: https://simplemaps.com/data/world-cities
 
 ## Contact
-Name: Kenneth Chau
+Name: Kenneth Chau<br>
 Email: kenetx@pm.me
