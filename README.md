@@ -1,5 +1,6 @@
 # populationMapAnalysis
 A heatmap of cities with population above 500000. 
+![NA east coast] (https://github.com/kennetchau/populationMapAnalysis/blob/main/pictures/Screenshot%202023-06-03%20at%203.14.20%20PM.png)
 
 ## How to use
 Download the html file and open it with any browser
