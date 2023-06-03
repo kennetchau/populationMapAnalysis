@@ -1,6 +1,6 @@
 # populationMapAnalysis
 A heatmap of cities with population above 500000. 
-Created using python pandas, folium
+<br>Created using python pandas, folium
 ![NA east coast](./pictures/Screenshot%202023-06-03%20at%203.14.20%20PM.png)
 
 ## How to use
